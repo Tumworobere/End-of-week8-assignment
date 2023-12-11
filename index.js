@@ -8,7 +8,7 @@ function isEmailValid(email) {
   }
 
   // Example usage:
-  const userEmail = 'annaht.annah@gmail.com';
+  const userEmail = 'anna.com';
   const isValid = isEmailValid(userEmail);
 
   console.log(`Is the email address '${userEmail}' valid? ${isValid}`);
